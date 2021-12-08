@@ -3,6 +3,8 @@ from discord.ext import commands
 import keep_alive
 import traceback
 
+print('hi')
+
 owner_id = 445887034473578506
 
 intents = discord.Intents.all()
